@@ -12,6 +12,7 @@ object Main extends App {
     println(c1.toTrigonometric)
     println(c1.toExponential)
     println(c1 ^ 2)
+    println(c1 * c2)
   }
 
   val a = Complex(1, 2)
